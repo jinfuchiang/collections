@@ -13,3 +13,5 @@
 - <a href = "https://stackoverflow.com/questions/18391808/how-do-i-get-the-backtrace-for-all-the-threads-in-gdb">打印所有线程的backtrace</a>
 ## 公开课
 - <a href = "https://github.com/awesome-cs-community/Awsome-Courses">合集1</a>
+## 软技能
+- <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
