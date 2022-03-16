@@ -17,3 +17,7 @@
 - <a href = "https://github.com/awesome-cs-community/Awsome-Courses">合集1</a>
 ## 软技能
 - <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
+## 面试
+### TW
+- <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
+- <a href = "https://www.nowcoder.com/discuss/5845">购物车题</a>
