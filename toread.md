@@ -19,6 +19,8 @@
 - <a href ="https://compilers.cool">编译原理</a>
 ## 软技能
 - <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
+## 数学
+- <a href = "https://zhuanlan.zhihu.com/p/60964047">Catalan数</a>
 ## 面试
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
