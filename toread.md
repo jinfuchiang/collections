@@ -17,6 +17,7 @@
 ## 公开课
 - <a href = "https://github.com/awesome-cs-community/Awsome-Courses">合集1</a>
 - <a href = "https://github.com/jackwener/CS-Awesome-Courses">合集2</a>
+- <a href = "http://learn.lianglianglee.com/">专栏</a>
 - <a href ="https://compilers.cool">编译原理</a>
 ## 软技能
 - <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
