@@ -2,6 +2,13 @@
 - <a href = "https://www.markdownguide.org/basic-syntax">Markdown Guide</a>
 ## 数据库
 - MySQL运维内参（群友推荐：InnoDB、较抽象）
+- 是否应该使用MMAP作为数据库的buffer pool
+  - 正方：<a href = "https://db.cs.cmu.edu/mmap-cidr2022/">Are You Sure You Want to Use MMAP in Your Database Management System?</a>
+  - 反方：
+    - <a href = "https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system">re: Are You Sure You Want to Use MMAP in Your Database Management System?</a> 
+    - <a href = "https://www.modb.pro/db/381185">译文</a>
+
+
 ## 编译器
 - <a href = "https://www.youtube.com/watch?v=aZbVvl_eeMA">编译器行业闲聊</a>
 - <a href = "https://defuse.ca/online-x86-assembler.htm">x86/x64在线汇编/反汇编器</a>
@@ -27,6 +34,7 @@
 - <a href = "toutiao.io">技术文章整合</a>
 ## 浮点数
 - <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
+
 ## 面试
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
