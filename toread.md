@@ -26,7 +26,7 @@
 ## 搜索引擎
 - <a href = "toutiao.io">技术文章整合</a>
 ## 浮点数
-- <a href = "https://0.30000000000000004.com/">各语言浮点数计算行为鉴赏</a>
+- <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
 ## 面试
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
