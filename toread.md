@@ -1,11 +1,12 @@
 ## 逆向
 <a href = "https://godbolt.org/">高级语言2汇编</a>
 ### Arm
-#### 汇编器
+#### assembler
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2Python</a>
-- <a href = "http://armconverter.com">汇编2十六进制</a>
-
+- <a href = "http://armconverter.com">汇编2hex</a>
+#### disassembler
+- <a href = "https://onlinedisassembler.com/odaweb/">hex2assembly</a>
 ## Markdown
 - <a href = "https://www.markdownguide.org/basic-syntax">Markdown Guide</a>
 ## 数据库
