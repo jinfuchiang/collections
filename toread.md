@@ -1,3 +1,11 @@
+## 逆向
+<a href = "https://godbolt.org/">高级语言2汇编</a>
+### Arm
+#### 汇编器
+- <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
+- <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2Python</a>
+- <a href = "http://armconverter.com">汇编2十六进制</a>
+
 ## Markdown
 - <a href = "https://www.markdownguide.org/basic-syntax">Markdown Guide</a>
 ## 数据库
@@ -7,7 +15,6 @@
   - 反方：
     - <a href = "https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system">re: Are You Sure You Want to Use MMAP in Your Database Management System?</a> 
     - <a href = "https://www.modb.pro/db/381185">译文</a>
-
 
 ## 编译器
 - <a href = "https://www.youtube.com/watch?v=aZbVvl_eeMA">编译器行业闲聊</a>
@@ -34,7 +41,6 @@
 - <a href = "toutiao.io">技术文章整合</a>
 ## 浮点数
 - <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
-
 ## 面试
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
