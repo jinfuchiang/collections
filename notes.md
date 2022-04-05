@@ -1,0 +1,1 @@
+- LR: Link Register, used to store return address, is more efficient than store address on stack. 机器级的函数调用支持。
