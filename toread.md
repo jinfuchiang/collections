@@ -1,3 +1,5 @@
+## Barrier
+- <a href = "https://stackoverflow.com/questions/15491751/real-life-use-cases-of-barriers-dsb-dmb-isb-in-arm">many useful link</a>
 ## 逆向
 <a href = "https://godbolt.org/">高级语言2汇编</a>
 ### Arm
