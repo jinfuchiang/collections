@@ -5,3 +5,6 @@
 STP X0, X1, [SP, #-16]! ; push
 LDP X0, X1, [SP], #16 ; pop
 ```
+#### how to read pmccntr?
+See [here](https://github.com/jinfuchiang/collections/blob/main/snippet.md#user-content-armv7-a).
+Note that MCR(write) and MRC(read) instruction don't exist in Armv8 instruction set. So, use MSR(write) and MRS(read) in AArch64.
