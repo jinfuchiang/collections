@@ -19,7 +19,8 @@ pacman -Syyu [packages]
 # never do: pacman -Sy && pacman -S [packages]
 ```
 ## Arm
-### 高精度计时器
+### Cycle clcok
+#### ARMv7-A 
 ```C
 #if (__ARM_ARCH >= 6)  // V6 is the earliest arch that has a standard cyclecount
   uint32_t pmccntr;
@@ -36,4 +37,21 @@ pacman -Syyu [packages]
     }
   }
 #endif
+```
+[Referrence](https://github.com/google/benchmark/blob/b3c08f6ec39b9bfe4ec2ba45d1726582eea096a8/src/cycleclock.h)
+#### AArch64
+```C
+  uint64_t pmccntr;
+  uint64_t pmuseren;
+  uint64_t pmcntenset;
+  // Read the user mode perf monitor counter access permissions.
+  asm volatile("mrs %0, pmuserenr_el0" :"=r"(pmuseren));
+  if (pmuseren & 1) {  // Allows reading perfmon counters for user mode code.
+    asm volatile("mrs %0, pmcntenset_el0" :"=r"(pmcntenset));
+    if (pmcntenset & 0x80000000ul) {  // Is it counting?
+      asm volatile("mrs %0, pmcntenset_el0" :"=r"(pmccntr));
+      // The counter is set up to count every 64th cycle
+      return static_cast<int64_t>(pmccntr) * 64;  // Should optimize to << 6
+    }
+  }
 ```
