@@ -38,6 +38,7 @@
 - <a href ="https://compilers.cool">编译原理</a>
 ## 软技能
 - <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
+- <a href = "https://github.com/sparanoid/chinese-copywriting-guidelines">排版</a>
 ## 数学
 - <a href = "https://zhuanlan.zhihu.com/p/60964047">Catalan数</a>
 ## 搜索引擎
