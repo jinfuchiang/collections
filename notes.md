@@ -11,3 +11,13 @@ Note that MCR(write) and MRC(read) instruction don't exist in Armv8 instruction 
 
 #### Where to find core dump files?
 Use [coredumpctl](https://wiki.archlinux.org/title/Core_dump#Examining_a_core_dump).
+
+#### Deal with MMaped Self-modifing Code
+- Don't add PROT_EXEC flag before you has completed the code. Because add PROT_EXEC flag will put the code into instruction cache. Modify code after adding PROT_EXEC flag will not invalidate the corresponding i-cahce. So the code you run is not what you want.
+- Typically, you should first mmap data page with PROT_READ and PROT_WRITE flags. After you completed the code, use **mprotect** to add PROT_EXEC flag and run it.
+
+#### char[] Pitfall
+```C++
+constexpr char src[] = "\x00\x04\x00\xd1";
+memcpy(dst, src, sizeof(src); // Bad! Will copy the trailling-zero to dst
+```
