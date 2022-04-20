@@ -16,9 +16,13 @@ Use [coredumpctl](https://wiki.archlinux.org/title/Core_dump#Examining_a_core_du
 - Don't add PROT_EXEC flag before you has completed the code. Because add PROT_EXEC flag will put the code into instruction cache. Modify code after adding PROT_EXEC flag will not invalidate the corresponding i-cahce. So the code you run is not what you want.
 - Typically, you should first mmap data page with PROT_READ and PROT_WRITE flags. After you completed the code, use **mprotect** to add PROT_EXEC flag and run it.
 
-#### char[] and sizeof Pitfall
+#### Byte Array Pitfall
+- Char type in C is one byte length, so char type can be used to represente byte and char array can be used to represent byte array.
+- But char array is also used as C-string, especially C support writing statement like this `char str[] = "Hello World"`. This statement will automatically append a zero in the end of array.
+- If we forget this feature, it may cause problems.
 ```C++
-constexpr char src[] = "\x00\x04\x00\xd1";
+constexpr char src[] = "\x00\x04\x00\xd1"; // painful to write {'\x00', '\x04\', '\x00', '\xd1'}
 memcpy(dst, src, sizeof(src)); // Bad! Will copy the trailling-zero to dst
 ```
+There are enough caveats about the differences between strlen and sizeof when it comes to C-string, but not for byte array(or char []).
 Instead of sizeof(), use strlen(). Or don't use char[], use std::string.
