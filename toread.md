@@ -27,6 +27,8 @@
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
 - <a href = "http://git.musl-libc.org/cgit/musl/plain/src/setjmp/">异常实现</a>
+## C++
+- <a href = "https://www.luogu.com.cn/blog/AccRobin/grammar-candies">现代C++语法糖</a>
 ## Debug
 ### 多线程调试
 - <a href = "https://www.cnblogs.com/ralphjzhang/archive/2011/12/03/2274013.html">死锁判定</a>
