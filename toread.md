@@ -51,7 +51,7 @@
 ## 浮点数
 - <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
 ## 状态机
-- <a href = "https://github.com/statelyai/xstate">JavaScript构建状态机和画状态图
+- <a href = "https://github.com/statelyai/xstate">JavaScript构建状态机和画状态图</a>
 ## 面试
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
