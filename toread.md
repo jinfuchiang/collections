@@ -1,3 +1,4 @@
+
 ## Barrier
 - <a href = "https://stackoverflow.com/questions/15491751/real-life-use-cases-of-barriers-dsb-dmb-isb-in-arm">many useful link</a>
 ## 逆向
@@ -49,6 +50,8 @@
 - <a href = "toutiao.io">技术文章整合</a>
 ## 浮点数
 - <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
+## 状态机
+- <a href = "https://github.com/statelyai/xstate">JavaScript构建状态机和画状态图
 ## 面试
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
