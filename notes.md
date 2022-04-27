@@ -26,3 +26,15 @@ memcpy(dst, src, sizeof(src)); // Bad! Will copy the trailling-zero to dst
 ```
 There are enough caveats about the differences between strlen and sizeof when it comes to C-string, but not for byte array(or char []).
 Instead of sizeof(), use strlen(). Or don't use char[], use std::string.
+
+#### 查看指定系统调用的两种方式
+1. strace -e: only trace given system call
+```
+strace -e execve,futex ./lock.py
+```
+2. Use grep "or"
+```
+strace ./lock.py |& grep "trace\|futex"
+
+```
+1通常比2好，1适用于死锁，2则不行。
