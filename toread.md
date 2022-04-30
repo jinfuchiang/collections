@@ -1,4 +1,5 @@
-
+## GCC
+- <a href = "https://wizardforcel.gitbooks.io/100-gcc-tips/content/inhibit-linemarkers.html">Inhibit generation of linemarkers</a>
 ## Barrier
 - <a href = "https://stackoverflow.com/questions/15491751/real-life-use-cases-of-barriers-dsb-dmb-isb-in-arm">many useful link</a>
 ## 逆向
@@ -19,7 +20,6 @@
   - 反方：
     - <a href = "https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system">re: Are You Sure You Want to Use MMAP in Your Database Management System?</a> 
     - <a href = "https://www.modb.pro/db/381185">译文</a>
-
 ## 编译器
 - <a href = "https://www.youtube.com/watch?v=aZbVvl_eeMA">编译器行业闲聊</a>
 - <a href = "https://defuse.ca/online-x86-assembler.htm">x86/x64在线汇编/反汇编器</a>
