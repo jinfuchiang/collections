@@ -53,6 +53,8 @@
 ## 状态机
 - <a href = "https://github.com/statelyai/xstate">JavaScript构建状态机和画状态图</a>
 ## 面试
+### 经验分享
+- <a href = "https://liuzhenglai.com/post/625131eda6983941cca711cc">海外面试向</a>
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
 - <a href = "https://www.nowcoder.com/discuss/5845">购物车题</a>
