@@ -1,3 +1,5 @@
+## 他山之石
+- <a href = "https://github.com/huangrt01/CS-Notes">包含 CUDA、3 pieces、cs144 笔记 </a>
 ## Online Source Code
 - <a href = "https://elixir.bootlin.com/linux/latest/source">linux, glibc ...</a>
 ## GCC
