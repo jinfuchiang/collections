@@ -38,3 +38,9 @@ strace ./lock.py |& grep "trace\|futex"
 
 ```
 1通常比2好，1适用于死锁，2则不行。
+
+#### C++ pitfall
+```C++
+int main() { int i = i; }
+```
+Above is a valid cpp program. ~~It evaluates as (i) int i (ii) i = i in that order.~~ [It's an UB](https://stackoverflow.com/questions/23415661/has-c-standard-changed-with-respect-to-the-use-of-indeterminate-values-and-und).
