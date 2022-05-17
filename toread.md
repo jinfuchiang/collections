@@ -3,6 +3,7 @@
 - [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
 ## 他山之石
 - <a href = "https://github.com/huangrt01/CS-Notes">包含 CUDA、3 pieces、cs144 笔记 </a>
+- <a href = "https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html">cs144 笔记</a>
 - <a href = "https://www.zhihu.com/people/xing-xing-14-99-67/posts">Linux、系统、性能笔记 -- by 阿里混合云勿飞</a>
 ## Online Source Code
 - <a href = "https://elixir.bootlin.com/linux/latest/source">linux, glibc ...</a>
