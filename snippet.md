@@ -1,5 +1,29 @@
 ## 隐蔽信道
-### x86 获取频率周期级时钟
+### 访存周期级测时
+```C
+/*
+ * Loads from virtual address addr and measure the access time
+ */
+CYCLES measure_one_block_access_time(ADDR_PTR addr)
+{
+    CYCLES cycles;
+
+    asm volatile("mov %1, %%r8\n\t"
+            "lfence\n\t"
+            "rdtsc\n\t"
+            "mov %%eax, %%edi\n\t"
+            "mov (%%r8), %%r8\n\t"
+            "lfence\n\t"
+            "rdtsc\n\t"
+            "sub %%edi, %%eax\n\t"
+    : "=a"(cycles) /*output*/
+    : "r"(addr)
+    : "r8", "edi");
+
+    return cycles;
+}
+```
+### x86 读取周期级时钟
 ```C
 /* 
  * Returns Time Stamp Counter 
