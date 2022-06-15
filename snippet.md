@@ -1,5 +1,42 @@
 ## 隐蔽信道
-### 访存周期级测时
+### 侦测发送方发送的 bit
+在一段时间内，多次测量访问同一块地址的时间，判断访存是 cache miss 或 cache hit。若该时间段内，miss的次数大于hit的次数，则说明接收方发送了1，反之发送了0
+如果没有其他进程在 flush 该地址的缓存，hit 的次数应远远大于 miss 的次数
+（Idea：通过测量时间判断cache miss 可能有误差，是否可以用 PMC 寄存器直接获取 LLC miss 的次数）
+```C
+/*
+ * Detects a bit by repeatedly measuring the access time of the load from config->addr
+ * and counting the number of misses for the clock length of config->interval.
+ *
+ * Detect a bit 1 if misses >= hits
+ * Detect a bit 0 otherwise
+ */
+bool detect_bit(struct config *config)
+{
+	int misses = 0;
+	int hits = 0;
+
+	// Sync with sender
+	CYCLES start_t = cc_sync();
+	while ((get_time() - start_t) < config->interval) {
+		// Load data from config->addr and measure latency
+		CYCLES access_time = measure_one_block_access_time(config->addr); 
+
+		// Ignore access times larger than 1000 cycles usually due to a disk miss.
+		if (access_time < 1000) {
+			// Count if it's a miss or hit depending on latency
+			if (access_time > CACHE_MISS_LATENCY) {
+				misses++;
+			} else {
+				hits++;
+			}
+		}
+	}
+
+	return misses >= hits;
+}
+```
+### 访存周期级计时
 ```C
 /*
  * Loads from virtual address addr and measure the access time
