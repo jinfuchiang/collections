@@ -1,3 +1,40 @@
+## 隐蔽信道
+### x86 获取频率周期级时钟
+```C
+/* 
+ * Returns Time Stamp Counter 
+ */
+extern inline __attribute__((always_inline))
+CYCLES rdtscp(void) {
+	CYCLES cycles;
+	asm volatile ("rdtscp"
+	: /* outputs */ "=a" (cycles));
+
+	return cycles;
+}
+/* 
+ * Gets the value Time Stamp Counter 
+ */
+inline CYCLES get_time() {
+    return rdtscp();
+}
+```
+### 收发双方如何同步时间
+误差小于CHANNEL_SYNC_JITTER，或大于CHANNEL_SYNC_TIMEMASK
+```C
+/* Synchronizes at the overflow of a counter
+ *
+ * Counter is created by masking the lower bits of the Time Stamp Counter
+ * Sync done by spinning until the counter is less than CHANNEL_SYNC_JITTER
+ */
+#define CHANNEL_SYNC_TIMEMASK           0x000FFFFF
+#define CHANNEL_SYNC_JITTER             0x0100
+extern inline __attribute__((always_inline))
+CYCLES cc_sync() {
+    while((get_time() & CHANNEL_SYNC_TIMEMASK) > CHANNEL_SYNC_JITTER) {}
+    return get_time();
+}
+```
 ## Shell
 ### 公私钥 for ssh
 ```shell
