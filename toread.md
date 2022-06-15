@@ -11,10 +11,12 @@
 - <a href = "https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html">cs144 笔记</a>
 - <a href = "https://kiprey.github.io/tags/CS144/">cs144 笔记</a>
 - <a href = "https://www.zhihu.com/people/xing-xing-14-99-67/posts">Linux、系统、性能笔记 -- by 阿里混合云勿飞</a>
+- [朴素linux--C和Linux底层知识](https://github.com/1184893257/simplelinux)
 ## Online Source Code
 - <a href = "https://elixir.bootlin.com/linux/latest/source">linux, glibc ...</a>
 ## GCC
 - <a href = "https://wizardforcel.gitbooks.io/100-gcc-tips/content/inhibit-linemarkers.html">Inhibit generation of linemarkers</a>
+- [内联汇编各种标识的含义](https://github.com/1184893257/simplelinux/blob/master/inlineasm.md)
 ## Barrier
 - <a href = "https://stackoverflow.com/questions/15491751/real-life-use-cases-of-barriers-dsb-dmb-isb-in-arm">many useful link</a>
 ## 逆向
