@@ -1,3 +1,5 @@
+## 内存系统
+- [内存管理系统辞典](https://www.memorymanagement.org/)
 ## 网络
 ### TCP
 - [tcpdump抓包、WireShark分析TCP协议](https://zhuanlan.zhihu.com/p/142665708)
