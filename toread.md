@@ -35,6 +35,7 @@
 - <a href = "https://onlinedisassembler.com/odaweb/">hex2assembly</a>
 ## Markdown
 - <a href = "https://www.markdownguide.org/basic-syntax">Markdown Guide</a>
+- [Markdown表格生成](https://www.tablesgenerator.com/markdown_tables)
 ## 数据库
 - MySQL运维内参（群友推荐：InnoDB、较抽象）
 - 是否应该使用MMAP作为数据库的buffer pool
