@@ -55,6 +55,8 @@
 - <a href = "https://www.luogu.com.cn/blog/AccRobin/grammar-candies">现代C++语法糖</a>
 - <a href = "https://github.com/Cpp-Club/Cxx_HOPL4_zh">现代C++白皮书 -- Bjarne Stroustrup 著 吴咏炜、杨文波、张云潮 等 译</a>
 - [C++比较器写法大全](https://jimmy-shen.medium.com/customize-comparison-in-c-fa48c0eac6d8)
+- [C++单例模式](https://stackoverflow.com/a/1008289)
+- [C++内存区域](https://stackoverflow.com/a/10157210)
 ## Debug
 ### 多线程调试
 - <a href = "https://www.cnblogs.com/ralphjzhang/archive/2011/12/03/2274013.html">死锁判定</a>
