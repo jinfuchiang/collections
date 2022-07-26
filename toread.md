@@ -51,6 +51,7 @@
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
 - <a href = "http://git.musl-libc.org/cgit/musl/plain/src/setjmp/">异常实现</a>
+- [https://stackoverflow.com/a/14643530](长度为 0 的数组)
 ## C++
 - <a href = "https://www.luogu.com.cn/blog/AccRobin/grammar-candies">现代C++语法糖</a>
 - <a href = "https://github.com/Cpp-Club/Cxx_HOPL4_zh">现代C++白皮书 -- Bjarne Stroustrup 著 吴咏炜、杨文波、张云潮 等 译</a>
