@@ -15,3 +15,6 @@
 #### epoll原理
 1. epoll() 在内核内采用红黑树维护应用程序感兴趣的 fd。应用通过epoll_ctl()向红黑树增加 fd，而不必每次传所有的 fd，解决了缺陷1.1。
 2. epoll()内部维护一个活动 fd 的链表。epoll_wait() 时该链表，链表内所有 fd 都是有活动的，应用程序无需再遍历一次，解决了缺陷1.4。
+#### 为什么使用 select 等 I/O 复用函数需要使 fd 非阻塞
+类似于条件变量的 spurious wakeup
+> Under Linux, select() may report a socket file descriptor as "ready for reading", while nevertheless a subsequent read blocks. This could for example happen when data has arrived but upon examination has wrong checksum and is discarded. There may be other circumstances in which a file descriptor is spuriously reported as ready. 
