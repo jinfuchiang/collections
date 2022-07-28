@@ -1,14 +1,16 @@
 ### C10K 综述
 [Ref](http://www.kegel.com/c10k.html)
 #### I/O 策略
-##### 为每个连接开一个线程
+##### 为每个连接开一个线程、阻塞
 [要点](https://stackoverflow.com/a/17771219)
-1. 线程池复用
+1. 线程复用（线程池）
 2. 修改栈大小
-3. 使用 SO_REUSEPORT [https://dengking.github.io/Linux-OS/Network/Programming/Socket/Socket-option/SO_REUSEADDR-SO_REUSEPORT/stackoverflow-How-SO_REUSEADDR-SO_REUSEPORT-differ/]
+3. 使用 SO_REUSEPORT [Ref](https://dengking.github.io/Linux-OS/Network/Programming/Socket/Socket-option/SO_REUSEADDR-SO_REUSEPORT/stackoverflow-How-SO_REUSEADDR-SO_REUSEPORT-differ/)
 4. 增加open files (default 1.024), max user processes, /proc/sys/kernel/pid_max (default 32K), /proc/sys/kernel/threads-max, and /proc/sys/vm/max_map_count (default 65K).
-
-##### 
+#### 单线程多连接、水平触发、非阻塞
+select、poll
+#### 单线程多连接、边沿触发、非阻塞
+epoll、kqueue
 
 ### [Kqueue: A generic and scalable event notification facility](https://people.freebsd.org/~jlemon/papers/kqueue.pdf)笔记
 #### poll() 和 select() 缺陷
