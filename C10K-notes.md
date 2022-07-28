@@ -1,3 +1,15 @@
+### C10K 综述
+[Ref](http://www.kegel.com/c10k.html)
+#### I/O 策略
+##### 为每个连接开一个线程
+[要点](https://stackoverflow.com/a/17771219)
+1. 线程池复用
+2. 修改栈大小
+3. 使用 SO_REUSEPORT [https://dengking.github.io/Linux-OS/Network/Programming/Socket/Socket-option/SO_REUSEADDR-SO_REUSEPORT/stackoverflow-How-SO_REUSEADDR-SO_REUSEPORT-differ/]
+4. 增加open files (default 1.024), max user processes, /proc/sys/kernel/pid_max (default 32K), /proc/sys/kernel/threads-max, and /proc/sys/vm/max_map_count (default 65K).
+
+##### 
+
 ### [Kqueue: A generic and scalable event notification facility](https://people.freebsd.org/~jlemon/papers/kqueue.pdf)笔记
 #### poll() 和 select() 缺陷
 1. 无状态的 poll() 和 select() 导致的不可扩展性（Not scalable）
@@ -15,6 +27,7 @@
 #### epoll原理
 1. epoll() 在内核内采用红黑树维护应用程序感兴趣的 fd。应用通过epoll_ctl()向红黑树增加 fd，而不必每次传所有的 fd，解决了缺陷1.1。
 2. epoll()内部维护一个活动 fd 的链表。epoll_wait() 时该链表，链表内所有 fd 都是有活动的，应用程序无需再遍历一次，解决了缺陷1.4。
-#### 为什么使用 select 等 I/O 复用函数需要使 fd 非阻塞
+### 为什么使用 select 等 I/O 复用函数需要使 fd 非阻塞
 类似于条件变量的 spurious wakeup
 > Under Linux, select() may report a socket file descriptor as "ready for reading", while nevertheless a subsequent read blocks. This could for example happen when data has arrived but upon examination has wrong checksum and is discarded. There may be other circumstances in which a file descriptor is spuriously reported as ready. 
+     
