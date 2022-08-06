@@ -69,6 +69,9 @@
 - <a href = "https://github.com/jackwener/CS-Awesome-Courses">合集2</a>
 - <a href = "http://learn.lianglianglee.com/">专栏</a>
 - <a href ="https://compilers.cool">编译原理</a>
+### xv6
+- [实验文档翻译+lab实况](http://xv6.dgs.zone/)
+- [6.S081翻译](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
 ## 书
 - [ebook collection](https://soft.ryana.cn/)
 ## 软技能
