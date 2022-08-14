@@ -5,3 +5,5 @@
 2. shell开daemon进程
 - 理论上，只要父进程比子进程先 exit，子进程就变成 daemon 进程了
 - 但 shell 因为会长期运行，一般不会 exit，所以只有通过两次 fork() 开 daemon 进程
+#### 进程
+[理解Linux进程](https://tobegit3hub1.gitbooks.io/understanding-linux-processes/content/)
