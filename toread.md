@@ -26,6 +26,9 @@
 - <a href = "https://stackoverflow.com/questions/15491751/real-life-use-cases-of-barriers-dsb-dmb-isb-in-arm">many useful link</a>
 ## 逆向
 <a href = "https://godbolt.org/">高级语言2汇编</a>
+## 操作系统
+### I/O
+- [I/O 复用 demo](https://devarea.com/linux-io-multiplexing-select-vs-poll-vs-epoll/)
 ### Arm
 #### assembler
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
