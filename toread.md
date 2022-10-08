@@ -88,6 +88,8 @@
 - <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
 ## 状态机
 - <a href = "https://github.com/statelyai/xstate">JavaScript构建状态机和画状态图</a>
+## 数据结构
+- [线段树](https://codeforces.com/blog/entry/18051)
 ## 面试
 ### 简历
 - [用draw.io画的简历模板](https://github.com/Zilize/DrawCV)
