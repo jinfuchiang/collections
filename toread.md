@@ -90,6 +90,8 @@
 - <a href = "https://github.com/statelyai/xstate">JavaScript构建状态机和画状态图</a>
 ## 数据结构
 - [线段树](https://codeforces.com/blog/entry/18051)
+## 安全
+- [如何隐藏IP](https://educatedguesswork.org/posts/traffic-relaying/)
 ## 面试
 ### 简历
 - [用draw.io画的简历模板](https://github.com/Zilize/DrawCV)
