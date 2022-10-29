@@ -41,7 +41,7 @@
 - 属于并发问题中的控制流竞争
 #### 解决方法
 - xv6 中在释放睡眠锁中的自旋锁之前，会获取进程的自旋锁。这样，保证了线程在睡眠之前，唤醒操作会被阻塞
-- Solaris 系统提供了 setpark() 调用，线程调用 setpark() 以后若有其他线程调用了unpark()，则之后的 park() 会直接返回，而不是睡眠。所以，应用应在释放睡眠锁的自旋锁之前调用 setpark()。
+- Solaris 系统提供了 setpark() 调用，线程调用 setpark() 以后若有其他线程调用了unpark()，则之后的 park() 会直接返回，而不是睡眠。所以，应用应在释放睡眠锁的自旋锁之前调用 setpark()。Ref：OSTEP，28.14（Using Queues: Sleeping Instead Of Spinning）
 
 ### 为什么条件变量的wait操作需要传一个锁（为什么不让程序员自己实现上锁和解锁）
 - [Ref](https://stackoverflow.com/a/46937081)
