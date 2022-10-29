@@ -26,6 +26,10 @@
 - 开销：与自旋锁相似，但没有 cache 频繁失效的问题
 - 公平性：FIFO 式公平
 
+### yield()、 sleep() 和 sched() 区别
+- yield() 和 sched() ：Running->Runable(or Ready)
+- sleep() ：Running->Blocked
+
 ### 为什么条件变量的wait操作需要传一个锁（为什么不让程序员自己实现上锁和解锁）
 - [Ref](https://stackoverflow.com/a/46937081)
 - 正确使用条件变量必须使用锁
