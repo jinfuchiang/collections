@@ -27,8 +27,8 @@
 - 公平性：FIFO 式公平
 
 ### yield()、 sleep() 和 sched() 区别
-- yield() 和 sched() ：Running->Runable(or Ready)
-- sleep() ：Running->Blocked
+- yield() 和 sched() ：RUNNING->RUNABLE(aka. READY)
+- sleep() ：RUNNING->BLOCKED
 
 ### 为什么条件变量的wait操作需要传一个锁（为什么不让程序员自己实现上锁和解锁）
 - [Ref](https://stackoverflow.com/a/46937081)
