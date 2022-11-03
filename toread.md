@@ -6,7 +6,7 @@
 - [MSS 设定方法](https://medium.com/fcamels-notes/tcp-maximum-segment-size-%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5%E5%8F%8A%E6%98%AF%E5%A6%82%E4%BD%95%E6%B1%BA%E5%AE%9A%E7%9A%84-b5fd9005702e)
 - [SYN cookie](https://www.youtube.com/watch?v=sLbihU82x7s)
 ### HTTP
-- [使用 Fiddler 和 Chrome F12 调式网站](https://www.youtube.com/watch?v=QxKHi1wFBfc)
+- [使用 Fiddler 和 Chrome F12 调试网站](https://www.youtube.com/watch?v=QxKHi1wFBfc)
 ## Paper
 ### 系统
 - [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
