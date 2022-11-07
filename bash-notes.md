@@ -14,3 +14,6 @@ grep 的 -o 选项可以只显示匹配的 pattern，而 pattern 又是一个正
 #### 开后台进程的方法
 1. removing the job from the job table or telling the shell to not send SIGHUP on session end (by using disown in either case)
 2. telling the child process to ignore SIGHUP (by using nohup)
+
+#### 工具
+- [命令行辅助理解](https://explainshell.com/)
