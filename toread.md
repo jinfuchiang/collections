@@ -31,6 +31,9 @@
 ## 操作系统
 ### I/O
 - [I/O 复用 demo](https://devarea.com/linux-io-multiplexing-select-vs-poll-vs-epoll/)
+### Linux
+- [Linux 主题大全](http://www.haifux.org/)
+- [LDD（Linux Device Drivers）伴读](https://redirect.cs.umbc.edu/~jtang/archives/cs421.f19/schedule.html)
 ### Arm
 #### assembler
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
