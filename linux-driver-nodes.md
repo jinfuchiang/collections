@@ -1,4 +1,4 @@
-## [如何在 UEFI Secure Boot 模式下安装第三方（自己写的）驱动](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/managing_monitoring_and_updating_the_kernel/index#signing-kernel-modules-for-secure-boot_managing-monitoring-and-updating-the-kernel)
+## [如何在 UEFI 启用 Secure Boot 模式下安装第三方（自己写的）驱动](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/managing_monitoring_and_updating_the_kernel/index#signing-kernel-modules-for-secure-boot_managing-monitoring-and-updating-the-kernel)
 1. 创建 X.509 公私钥对
 ```shell
 # cat << EOF > configuration_file.config
@@ -29,11 +29,11 @@ EOF
 ```shell
 # mokutil --import my_signing_key_pub.der
 ```
-注册完后重启，在 UEFI 界面确认添加
+- 注册完后重启，在 UEFI 界面确认添加
 3. 用```sign-file```对 ko 文件签名
 sign-file 属于内核提供的 utility，可使用 `dpkg -S sign-file` 搜素它的路径
 ```shell
-/usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 my_signing_key.priv my_signing_key_pub.der my_module.ko
+# /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 my_signing_key.priv my_signing_key_pub.der my_module.ko
 ```
 4. 安装该驱动
 ```insmod my_module.ko```
