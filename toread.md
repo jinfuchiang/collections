@@ -51,10 +51,33 @@
   - 反方：
     - <a href = "https://ravendb.net/articles/re-are-you-sure-you-want-to-use-mmap-in-your-database-management-system">re: Are You Sure You Want to Use MMAP in Your Database Management System?</a> 
     - <a href = "https://www.modb.pro/db/381185">译文</a>
-## 编译器
+## 编译
 - <a href = "https://www.youtube.com/watch?v=aZbVvl_eeMA">编译器行业闲聊</a>
 - <a href = "https://defuse.ca/online-x86-assembler.htm">x86/x64在线汇编/反汇编器</a>
 - <a href = "https://regex101.com/">正则在线+速查</a>
+### [Python AST ecosystem](https://github.com/hchasestevens/europython-2018/blob/master/exploring-ast-ecosystem.ipynb)
+##### Documentation
+- [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/)
+##### Visualization
+- [python-ast-explorer - a simple AST Web visualizer](https://github.com/maligree/python-ast-explorer)
+- [showast - An IPython/Jupyter notebook plugin for visualizing abstract syntax trees](https://github.com/hchasestevens/show_ast)
+##### Static analysis
+- [astor - AST observe/rewrite](https://github.com/berkerpeksag/astor)
+- [astpath - A command-line search utility for Python ASTs using XPath syntax](https://github.com/hchasestevens/show_ast)
+- [ASTsearch - an intelligent search tool for Python code](https://github.com/hchasestevens/show_ast)
+##### Linting
+- [bellybutton - Custom Python linting through AST expressions](https://github.com/hchasestevens/bellybutton)
+##### DSLs
+- [Pony - translate generators and lambda to SQL queries](https://github.com/ponyorm/pony)
+- [xpyth - translate comprehension syntax to XPath](https://github.com/hchasestevens/xpyth)
+- [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
+
+#### Application
+https://github.com/hchasestevens/asttools
+- [https://github.com/ponyorm/pony]()
+https://github.com/hchasestevens/xpyth
+https://github.com/sixty-north/cosmic-ray
+
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
