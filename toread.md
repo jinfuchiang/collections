@@ -34,6 +34,10 @@
 ### Linux
 - [Linux 主题大全](http://www.haifux.org/)
 - [LDD（Linux Device Drivers）伴读](https://redirect.cs.umbc.edu/~jtang/archives/cs421.f19/schedule.html)
+#### Ubuntu
+##### AppImage
+- [将 AppImage 文件添加为应用及设置默认打开方式](https://www.jianshu.com/p/ed3c35b8dcda)
+- [提取 APPImage 中的 Icon（见评论区）](https://zhuanlan.zhihu.com/p/215507075)
 ### Arm
 #### assembler
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
