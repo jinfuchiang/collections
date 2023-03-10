@@ -116,6 +116,7 @@ https://github.com/sixty-north/cosmic-ray
 - [draw.io插件：画数据流图、威胁模型图](https://github.com/michenriksen/drawio-threatmodeling)
 - [draw.io插件：画数学函数图像](https://github.com/OrangeX4/drawio-function-plot-plugin)
 - [Excalidraw 手绘风格作图](https://excalidraw.com/)
+- [文本生成流程图](https://flowchart.fun/)
 - [作图软件清单](https://www.zhihu.com/column/c_1479506700219150337)
 ## 数学
 - <a href = "https://zhuanlan.zhihu.com/p/60964047">Catalan数</a>
