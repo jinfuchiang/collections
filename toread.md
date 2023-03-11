@@ -138,3 +138,8 @@ https://github.com/sixty-north/cosmic-ray
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
 - <a href = "https://www.nowcoder.com/discuss/5845">购物车题</a>
+## AIGC
+### 高效使用 
+- [文本生成prompts集合](https://prompts.chat/)
+- [又一个文本prompts提示集合](https://quickref.me/chatgpt)
+- [prompts课程](https://learnprompting.org/)
