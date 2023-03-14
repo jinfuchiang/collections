@@ -5,3 +5,7 @@ Recommend by [a Mathematics PhD](https://castel.dev/post/research-workflow/).
 ## 音频
 - [分离人声与伴奏](https://github.com/deezer/spleeter)
 - [parselmouth](音频分析与可视化)
+## 传输
+- [fastcopy：windows下无进度条拷贝工具](https://fastcopy.jp/)
+## 删除
+- [找到占用资源（文件、设备）的进程](https://www.iobit.com/en/iobit-unlocker.php)
