@@ -1,3 +1,15 @@
+## 思维模型
+### 制定计划类
+- SMART
+- WOOP
+### 分析类
+- PEST
+- SWOT
+### 沟通类
+- SQCA
+- FOSSA
+### 管理类
+- 3C 
 ## 手写输入
 Recommend by [a Mathematics PhD](https://castel.dev/post/research-workflow/). 
 - Xournal
