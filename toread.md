@@ -131,6 +131,8 @@ https://github.com/sixty-north/cosmic-ray
 - [线段树](https://codeforces.com/blog/entry/18051)
 ## 安全
 - [如何隐藏IP](https://educatedguesswork.org/posts/traffic-relaying/)
+- [软件安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
+- [Web安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
 ## 面试
 ### 简历
 - [用draw.io画的简历模板](https://github.com/Zilize/DrawCV)
