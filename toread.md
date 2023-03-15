@@ -120,6 +120,7 @@ https://github.com/sixty-north/cosmic-ray
 - [作图软件清单](https://www.zhihu.com/column/c_1479506700219150337)
 ## 数学
 - <a href = "https://zhuanlan.zhihu.com/p/60964047">Catalan数</a>
+- [重复/不可重复组合/排列](https://www.shuxuele.com/combinatorics/combinations-permutations.html)
 ## 搜索引擎
 - <a href = "toutiao.io">技术文章整合</a>
 ## 浮点数
