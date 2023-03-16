@@ -22,3 +22,5 @@ Recommend by [a Mathematics PhD](https://castel.dev/post/research-workflow/).
 - [fastcopy：windows下无进度条拷贝工具](https://fastcopy.jp/)
 ## 删除
 - [找到占用资源（文件、设备）的进程](https://www.iobit.com/en/iobit-unlocker.php)
+## 阅读
+- [在线EPUB\PDF\MOBI\AZW3阅读器](https://www.neat-reader.cn/)
