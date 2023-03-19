@@ -147,3 +147,6 @@ https://github.com/sixty-north/cosmic-ray
 - [文本生成prompts集合](https://prompts.chat/)
 - [又一个文本prompts提示集合](https://quickref.me/chatgpt)
 - [prompts课程](https://learnprompting.org/)
+
+## 行业报告
+- [北京思集智库行业报告聚合](http://www.199it.com/)
