@@ -75,13 +75,14 @@
 - [Pony - translate generators and lambda to SQL queries](https://github.com/ponyorm/pony)
 - [xpyth - translate comprehension syntax to XPath](https://github.com/hchasestevens/xpyth)
 - [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
-
 #### Application
 https://github.com/hchasestevens/asttools
 - [https://github.com/ponyorm/pony]()
 https://github.com/hchasestevens/xpyth
 https://github.com/sixty-north/cosmic-ray
 
+## 编程实践
+- [使用rdtsc的注意事项](https://stackoverflow.com/questions/19941588/negative-clock-cycle-measurements-with-back-to-back-rdtsc)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
@@ -96,7 +97,7 @@ https://github.com/sixty-north/cosmic-ray
 ## Debug
 ### 多线程调试
 - <a href = "https://www.cnblogs.com/ralphjzhang/archive/2011/12/03/2274013.html">死锁判定</a>
-- <a href = "https://stackoverflow.com/questions/18391808/how-do-i-get-the-backtrace-for-all-the-threads-in-gdb">打印所有线程的backtrace</a>]
+- <a href = "https://stackoverflow.com/questions/18391808/how-do-i-get-the-backtrace-for-all-the-threads-in-gdb">打印所有线程的backtrace</a>
 ### Core Dump
 - <a href = "https://wiki.archlinux.org/title/Core_dump">archlinux wiki</a>
 ## 公开课
