@@ -114,6 +114,7 @@ https://github.com/sixty-north/cosmic-ray
 ## 软技能
 - <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
 - <a href = "https://github.com/sparanoid/chinese-copywriting-guidelines">排版</a>
+- [入职](https://www.cnblogs.com/figure9/p/3563869.html)
 ### 作图
 - [draw.io插件：画数据流图、威胁模型图](https://github.com/michenriksen/drawio-threatmodeling)
 - [draw.io插件：画数学函数图像](https://github.com/OrangeX4/drawio-function-plot-plugin)
@@ -155,3 +156,4 @@ https://github.com/sixty-north/cosmic-ray
 ### [坎宁安定律](http://bash.org/?152037)
 - [Linux社区案例](http://bash.org/?152037)
 - [tmux社区案例](https://www.reddit.com/r/linuxquestions/comments/dzli6o/best_alternative_to_tmux/)
+
