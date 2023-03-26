@@ -9,8 +9,13 @@
 - SQCA
 - FOSSA
 - WHW黄金圈法则
+- WHAT, SO WHAT, NOW WHAT
+- Problem-Solution-Benefit
 ### 管理类
 - 3C 
+## 文档
+### pdf
+- [pdf在线编辑](smallpdf.com)
 ## 手写输入
 Recommend by [a Mathematics PhD](https://castel.dev/post/research-workflow/). 
 - Xournal
