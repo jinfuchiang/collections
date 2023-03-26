@@ -84,6 +84,8 @@ https://github.com/sixty-north/cosmic-ray
 ## 编程实践
 - [使用rdtsc的注意事项](https://stackoverflow.com/questions/19941588/negative-clock-cycle-measurements-with-back-to-back-rdtsc)
 - [算法题的一些奇技淫巧（常规操作？）](https://www.zhihu.com/question/33776070)
+- [SPOJ：多语言、问题分类友好型OJ](https://www.spoj.com/)
+- [Adevnt of Code: puzzle，先易后难](https://adventofcode.com/)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
