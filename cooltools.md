@@ -1,4 +1,5 @@
 ## 思维模型
+- [《解决问题的商业框架图鉴》](https://book.douban.com/subject/35732232/)
 ### 制定计划类
 - SMART
 - WOOP
