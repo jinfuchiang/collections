@@ -19,6 +19,7 @@
 - <a href = "https://kiprey.github.io/tags/CS144/">cs144 笔记</a>
 - <a href = "https://www.zhihu.com/people/xing-xing-14-99-67/posts">Linux、系统、性能笔记 -- by 阿里混合云勿飞</a>
 - [朴素linux--C和Linux底层知识](https://github.com/1184893257/simplelinux)
+- [李博杰博士--博文真诚朴实](https://ring0.me)
 ## Online Source Code
 - <a href = "https://elixir.bootlin.com/linux/latest/source">linux, glibc ...</a>
 ## GCC
@@ -155,6 +156,7 @@ https://github.com/sixty-north/cosmic-ray
 - [又一个文本prompts提示集合](https://quickref.me/chatgpt)
 - [prompts课程](https://learnprompting.org/)
 - [prompt军火库](https://github.com/microsoft/semantic-kernel/blob/main/samples/skills/CodingSkill/CodePython/skprompt.txt)
+- [prompts工程](https://zhuanlan.zhihu.com/p/616860260)
 ## 行业报告
 - [北京思集智库行业报告聚合](http://www.199it.com/)
 ## 提问艺术
