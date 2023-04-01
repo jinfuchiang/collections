@@ -142,6 +142,7 @@ https://github.com/sixty-north/cosmic-ray
 - [如何隐藏IP](https://educatedguesswork.org/posts/traffic-relaying/)
 - [软件安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
 - [Web安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
+- [网络资产扫描](https://zhuanlan.zhihu.com/p/460403187)
 ## 面试
 ### 简历
 - [用draw.io画的简历模板](https://github.com/Zilize/DrawCV)
