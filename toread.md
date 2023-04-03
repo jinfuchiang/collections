@@ -117,9 +117,12 @@ https://github.com/sixty-north/cosmic-ray
 ## 书
 - [ebook collection](https://soft.ryana.cn/)
 ## 软技能
-- <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图</a>
+- <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图（图片的结构）</a>
+- [配色-文章](https://zhuanlan.zhihu.com/p/457797561)
+- [配色-视频](https://www.bilibili.com/video/BV1ZA4y1f75e)
 - <a href = "https://github.com/sparanoid/chinese-copywriting-guidelines">排版</a>
 - [入职](https://www.cnblogs.com/figure9/p/3563869.html)
+
 ### 作图
 - [draw.io插件：画数据流图、威胁模型图](https://github.com/michenriksen/drawio-threatmodeling)
 - [draw.io插件：画数学函数图像](https://github.com/OrangeX4/drawio-function-plot-plugin)
