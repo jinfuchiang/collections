@@ -119,7 +119,7 @@ https://github.com/sixty-north/cosmic-ray
 ## 软技能
 - <a href = "https://www.codedump.info/post/20220304-weekly-8/">配图（图片的结构）</a>
 - [配色-文章](https://zhuanlan.zhihu.com/p/457797561)
-- [配色-视频](https://www.bilibili.com/video/BV1ZA4y1f75e)
+- [配色灵感-视频](https://www.bilibili.com/video/BV1ZA4y1f75e)
 - <a href = "https://github.com/sparanoid/chinese-copywriting-guidelines">排版</a>
 - [入职](https://www.cnblogs.com/figure9/p/3563869.html)
 
