@@ -154,6 +154,8 @@ https://github.com/sixty-north/cosmic-ray
 ### TW
 - <a href = "https://www.nowcoder.com/discuss/544951">无人机规划题</a>
 - <a href = "https://www.nowcoder.com/discuss/5845">购物车题</a>
+### Google
+- [官方面试算法题教学](https://techdevguide.withgoogle.com/paths/interview/)
 ## AIGC
 ### 高效使用 
 - [文本生成prompts集合](https://prompts.chat/)
