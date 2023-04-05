@@ -122,6 +122,7 @@ https://github.com/sixty-north/cosmic-ray
 - [配色灵感-视频](https://www.bilibili.com/video/BV1ZA4y1f75e)
 - <a href = "https://github.com/sparanoid/chinese-copywriting-guidelines">排版</a>
 - [入职](https://www.cnblogs.com/figure9/p/3563869.html)
+- [Antirez关于10倍程序员的看法](http://antirez.com/news/112)
 
 ### 作图
 - [draw.io插件：画数据流图、威胁模型图](https://github.com/michenriksen/drawio-threatmodeling)
