@@ -12,6 +12,7 @@
 - WHW黄金圈法则
 - WHAT, SO WHAT, NOW WHAT
 - Problem-Solution-Benefit
+- [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 ### 管理类
 - 3C 
 ## 文档
