@@ -92,7 +92,8 @@ https://github.com/sixty-north/cosmic-ray
 - [SPOJ：多语言、问题分类友好型OJ](https://www.spoj.com/)
 - [Adevnt of Code: puzzle，先易后难](https://adventofcode.com/)
 - [用longjmp实现try-catch-finally](http://groups.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
-- [why do-while(0):引号与花括号](https://stackoverflow.com/questions/257418/do-while-0-what-is-it-good-for)
+- [why do-while(0):分号与花括号](https://stackoverflow.com/questions/257418/do-while-0-what-is-it-good-for)
+- [函数编写指南](https://youtu.be/yatgY4NpZXE)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
