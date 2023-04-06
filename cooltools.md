@@ -7,7 +7,7 @@
 - PEST
 - SWOT
 ### 表达类
-- [SQCA](https://vicky968.medium.com/business-framework-f3bba83e80d2)
+- [SCQA](https://vicky968.medium.com/business-framework-f3bba83e80d2)
 - FOSSA
 - WHW黄金圈法则
 - WHAT, SO WHAT, NOW WHAT
