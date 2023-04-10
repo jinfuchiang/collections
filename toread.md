@@ -5,7 +5,7 @@
 - [tcpdump抓包、WireShark分析TCP协议](https://zhuanlan.zhihu.com/p/142665708)
 - [MSS 设定方法](https://medium.com/fcamels-notes/tcp-maximum-segment-size-%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5%E5%8F%8A%E6%98%AF%E5%A6%82%E4%BD%95%E6%B1%BA%E5%AE%9A%E7%9A%84-b5fd9005702e)
 - [SYN cookie](https://www.youtube.com/watch?v=sLbihU82x7s)
-### HTTP
+### HTTPl
 - [使用 Fiddler 和 Chrome F12 调试网站](https://www.youtube.com/watch?v=QxKHi1wFBfc)
 ### 监管
 - [GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies](https://www.usenix.org/conference/usenixsecurity22/presentation/harrity)
@@ -43,6 +43,8 @@
 ##### AppImage
 - [将 AppImage 文件添加为应用及设置默认打开方式](https://www.jianshu.com/p/ed3c35b8dcda)
 - [提取 APPImage 中的 Icon（见评论区）](https://zhuanlan.zhihu.com/p/215507075)
+#### 配置
+- [像专家一样配置个人服务器](https://github.com/erebe/personal-server)
 ### Arm
 #### assembler
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
