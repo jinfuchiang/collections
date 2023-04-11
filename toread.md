@@ -23,7 +23,7 @@
 - <a href = "https://kiprey.github.io/tags/CS144/">cs144 笔记</a>
 - <a href = "https://www.zhihu.com/people/xing-xing-14-99-67/posts">Linux、系统、性能笔记 -- by 阿里混合云勿飞</a>
 - [朴素linux--C和Linux底层知识](https://github.com/1184893257/simplelinux)
-- [李博杰博士--博文真诚朴实](https://ring0.me)
+- [李博杰博士--小故事好看](https://ring0.me)
 ## Online Source Code
 - <a href = "https://elixir.bootlin.com/linux/latest/source">linux, glibc ...</a>
 ## GCC
@@ -45,6 +45,8 @@
 - [提取 APPImage 中的 Icon（见评论区）](https://zhuanlan.zhihu.com/p/215507075)
 #### 配置
 - [像专家一样配置个人服务器](https://github.com/erebe/personal-server)
+#### 杂项
+- [文件属性（创建一个root都不能删除的文件）](https://linuxize.com/post/chattr-command-in-linux/)
 ### Arm
 #### assembler
 - <a href = "http://shell-storm.org/online/Online-Assembler-and-Disassembler/">汇编2转义字符串</a>
