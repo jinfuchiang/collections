@@ -184,4 +184,5 @@ https://github.com/sixty-north/cosmic-ray
 ### [坎宁安定律](http://bash.org/?152037)
 - [Linux社区案例](http://bash.org/?152037)
 - [tmux社区案例](https://www.reddit.com/r/linuxquestions/comments/dzli6o/best_alternative_to_tmux/)
-
+## 英语
+- [过去式的深层含义-史蒂芬](https://www.zhihu.com/question/54639510)
