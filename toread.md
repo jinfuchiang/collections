@@ -11,6 +11,7 @@
 - [GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies](https://www.usenix.org/conference/usenixsecurity22/presentation/harrity)
 - [How Great is the Great Firewall? Measuring China's DNS Censorship](https://www.usenix.org/conference/usenixsecurity21/presentation/hoang)
 - [Many Roads Lead To Rome: How Packet Headers Influence DNS Censorship Measurement](https://www.usenix.org/system/files/sec22-bhaskar.pdf)
+- [使用正确的DNS](https://gitlab.com/NekoInverter/EhViewer/-/issues/70)
 ## Paper
 ### 系统
 - [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
