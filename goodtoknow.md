@@ -14,7 +14,7 @@
   - 疫苗免疫（vaccine immunity）：接种疫苗
 - lockdown
 ## 生活
-### 刀
+#### 刀
 - <a href = "https://zhuanlan.zhihu.com/p/471377591">刀具使用</a>
   - 垂直切割以减少刀刃磨损
   - 锯齿状刀具锯面包可减少面包切片后变形
@@ -29,4 +29,5 @@
 ##### [等额本金与等额本息](fang.com/zt/201505/xmhkfx.html)
 - 等额本金：每月还款额中，本金相同，利息逐月递减
 - 等额本息：每月还款额相同
-
+#### 污染防护
+- [How to grow fresh air：散尾葵、虎尾兰和绿萝](https://www.bilibili.com/video/BV18x411C7Ef)
