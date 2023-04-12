@@ -12,6 +12,9 @@
 - [How Great is the Great Firewall? Measuring China's DNS Censorship](https://www.usenix.org/conference/usenixsecurity21/presentation/hoang)
 - [Many Roads Lead To Rome: How Packet Headers Influence DNS Censorship Measurement](https://www.usenix.org/system/files/sec22-bhaskar.pdf)
 - [使用正确的DNS](https://gitlab.com/NekoInverter/EhViewer/-/issues/70)
+#### Young Xu 的文章
+- [可视化监管的影响](https://www.thousandeyes.com/blog/monitoring-dns-in-china)
+- [早期监管技术解构](https://www.thousandeyes.com/blog/deconstructing-great-firewall-china)
 ## Paper
 ### 系统
 - [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/conference/atc12/technical-sessions/presentation/serebryany)
