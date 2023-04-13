@@ -188,3 +188,4 @@ https://github.com/sixty-north/cosmic-ray
 - [过去式的深层含义-史蒂芬](https://www.zhihu.com/question/54639510)
 ## 安全
 - [password cracker:John the Ripper](https://github.com/openwall/john)
+- [GPU password cracker:John the Ripper](https://github.com/hashcat/hashcat)
