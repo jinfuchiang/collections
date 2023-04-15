@@ -152,6 +152,7 @@ https://github.com/sixty-north/cosmic-ray
 - [leetcode中的算法](https://zhuanlan.zhihu.com/p/342610561)
 ## 搜索引擎
 - <a href = "toutiao.io">技术文章整合</a>
+- [搜索引擎聚合](https://duckduckgo.com/bangs)
 ## 浮点数
 - <a href = "https://0.30000000000000004.com/">各语言浮点数运算行为鉴赏</a>
 ## 状态机
@@ -191,3 +192,4 @@ https://github.com/sixty-north/cosmic-ray
 ## 安全
 - [password cracker:John the Ripper](https://github.com/openwall/john)
 - [GPU password cracker:John the Ripper](https://github.com/hashcat/hashcat)
+
