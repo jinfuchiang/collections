@@ -13,6 +13,7 @@
 - WHAT, SO WHAT, NOW WHAT
 - Problem-Solution-Benefit
 - [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+- [PREP](https://zhuanlan.zhihu.com/p/376935805)
 ### 管理类
 - 3C 
 ## 文档
