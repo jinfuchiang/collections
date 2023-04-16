@@ -102,7 +102,8 @@ https://github.com/sixty-north/cosmic-ray
 - [用longjmp实现try-catch-finally](http://groups.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 - [why do-while(0):分号与花括号](https://stackoverflow.com/questions/257418/do-while-0-what-is-it-good-for)
 - [函数编写指南](https://youtu.be/yatgY4NpZXE)
-- [以语言、编译器、任务、库分类的时空能量benchmark](https://github.com/kostya/benchmarks)
+- [以语言、编译器、任务、库分类的时空能耗benchmark](https://github.com/kostya/benchmarks)
+- [用高级语言特性替代设计模式](https://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
