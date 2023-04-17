@@ -17,3 +17,6 @@ grep 的 -o 选项可以只显示匹配的 pattern，而 pattern 又是一个正
 
 #### 工具
 - [命令行辅助理解](https://explainshell.com/)
+
+#### 如何爬取整个网站
+- [wget -m -k -K -E -l 7 -t 6 -w 5 https://example.com/](https://explainshell.com/explain?cmd=wget+-m+-k+-K+-E+-l+7+-t+6+-w+5+https%3A%2F%2Ffreegeektime.com%2F#)
