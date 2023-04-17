@@ -43,6 +43,7 @@
 ### Linux
 - [Linux 主题大全](http://www.haifux.org/)
 - [LDD（Linux Device Drivers）伴读](https://redirect.cs.umbc.edu/~jtang/archives/cs421.f19/schedule.html)
+- [手把手编译源码构建自定义Linux](https://www.linuxfromscratch.org/)
 #### Ubuntu
 ##### AppImage
 - [将 AppImage 文件添加为应用及设置默认打开方式](https://www.jianshu.com/p/ed3c35b8dcda)
