@@ -105,7 +105,7 @@ https://github.com/sixty-north/cosmic-ray
 - [函数编写指南](https://youtu.be/yatgY4NpZXE)
 - [以语言、编译器、任务、库分类的时空能耗benchmark](https://github.com/kostya/benchmarks)
 - [用高级语言特性替代设计模式](https://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures)
-- [脱符合表三选项对比](https://www.technovelty.org/linux/stripping-shared-libraries.html)
+- [脱符合表unneeded和all选项对比](https://www.technovelty.org/linux/stripping-shared-libraries.html)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
