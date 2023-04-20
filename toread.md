@@ -129,7 +129,7 @@ https://github.com/sixty-north/cosmic-ray
 - <a href = "http://learn.lianglianglee.com/">专栏</a>
 - <a href ="https://compilers.cool">编译原理</a>
 ### xv6
-- [实验文档翻译+lab实况](http://xv6.dgs.zone/)
+- [实验文档翻译+lab实况](http://xv6.dgs.zone/)用前端和archive的方法绕过内容授权
 - [6.S081翻译](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
 ## 书
 - [ebook collection](https://soft.ryana.cn/)
@@ -167,6 +167,7 @@ https://github.com/sixty-north/cosmic-ray
 - [软件安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
 - [Web安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
 - [网络资产扫描](https://zhuanlan.zhihu.com/p/460403187)
+- [用前端或archive的方法绕过内容授权](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
 ## 面试
 ### 简历
 - [用draw.io画的简历模板](https://github.com/Zilize/DrawCV)
