@@ -167,7 +167,8 @@ https://github.com/sixty-north/cosmic-ray
 - [软件安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
 - [Web安全学习资源集合](https://github.com/CHYbeta/Web-Security-Learning)
 - [网络资产扫描](https://zhuanlan.zhihu.com/p/460403187)
-- [用前端或archive的方法绕过内容授权](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
+- [用前端技巧绕过内容授权](https://bbarrows.com/posts/how-to-get-around-paywalls-with-debug-tools)
+- [用archive方法绕过内容授权](https://news.ycombinator.com/item?id=34953693)
 ## 面试
 ### 简历
 - [用draw.io画的简历模板](https://github.com/Zilize/DrawCV)
