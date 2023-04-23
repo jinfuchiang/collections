@@ -8,6 +8,7 @@
 - SWOT
 ### 表达类
 - [SCQA](https://vicky968.medium.com/business-framework-f3bba83e80d2)
+- [冯唐和秋叶总结金字塔原理](https://zhuanlan.zhihu.com/p/164674593)
 - FOSSA
 - WHW黄金圈法则
 - WHAT, SO WHAT, NOW WHAT
