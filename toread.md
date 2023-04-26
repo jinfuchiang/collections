@@ -119,11 +119,10 @@ https://github.com/sixty-north/cosmic-ray
 - [C++单例模式](https://stackoverflow.com/a/1008289)
 - [C++内存区域](https://stackoverflow.com/a/10157210)
 ## Debug
-### 多线程调试
 - <a href = "https://www.cnblogs.com/ralphjzhang/archive/2011/12/03/2274013.html">死锁判定</a>
 - <a href = "https://stackoverflow.com/questions/18391808/how-do-i-get-the-backtrace-for-all-the-threads-in-gdb">打印所有线程的backtrace</a>
-### Core Dump
-- <a href = "https://wiki.archlinux.org/title/Core_dump">archlinux wiki</a>
+- <a href = "https://wiki.archlinux.org/title/Core_dump">Coredump archlinux wiki</a>
+- [Python C++ 混调](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
 ## 公开课
 - <a href = "https://github.com/awesome-cs-community/Awsome-Courses">合集1</a>
 - <a href = "https://github.com/jackwener/CS-Awesome-Courses">合集2</a>
