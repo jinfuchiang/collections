@@ -109,6 +109,8 @@ https://github.com/sixty-north/cosmic-ray
 - [用高级语言特性替代设计模式](https://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures)
 - [脱符号表unneeded和all选项对比](https://www.technovelty.org/linux/stripping-shared-libraries.html)
 - [软件架构栈(理清设计模式、OOP、MVC、DDD等的关系层级)](https://www.freecodecamp.org/news/software-design/)
+### tutorial
+- [WebGPU](https://eliemichel.github.io/LearnWebGPU/)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
