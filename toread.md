@@ -110,6 +110,9 @@ https://github.com/sixty-north/cosmic-ray
 - [脱符号表unneeded和all选项对比](https://www.technovelty.org/linux/stripping-shared-libraries.html)
 - [软件架构栈(理清设计模式、OOP、MVC、DDD等的关系层级)](https://www.freecodecamp.org/news/software-design/)
 - [穿透NAT思路（木马通信）](https://security.tencent.com/index.php/blog/msg/193)
+- [用CMOV使二分搜索branchless（Clang默认实现）](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
+- [针对软件优化的硬件手册](https://www.agner.org/optimize/)
+- [使用prefetch、ffs、Cache优化二分搜索(Eytzinger二分)](https://algorithmica.org/en/eytzinger)
 ### tutorial
 - [WebGPU入门](https://eliemichel.github.io/LearnWebGPU/)
 ## ABI
