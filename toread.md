@@ -109,8 +109,9 @@ https://github.com/sixty-north/cosmic-ray
 - [用高级语言特性替代设计模式](https://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures)
 - [脱符号表unneeded和all选项对比](https://www.technovelty.org/linux/stripping-shared-libraries.html)
 - [软件架构栈(理清设计模式、OOP、MVC、DDD等的关系层级)](https://www.freecodecamp.org/news/software-design/)
+- [穿透NAT思路（木马通信）](https://security.tencent.com/index.php/blog/msg/193)
 ### tutorial
-- [WebGPU](https://eliemichel.github.io/LearnWebGPU/)
+- [WebGPU入门](https://eliemichel.github.io/LearnWebGPU/)
 ## ABI
 - <a href = "https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented">x86-64 ABI</a>
 ## C语言
@@ -146,7 +147,7 @@ https://github.com/sixty-north/cosmic-ray
 - [Antirez关于10倍程序员的看法](http://antirez.com/news/112)
 - [使用 Reveal.js 做交互式在线PPT的心得](https://zhuanlan.zhihu.com/p/83425852)
 - [Erik Demaine的slide模板](https://zhuanlan.zhihu.com/p/403004001)
-
+- [如何应对知识爆炸](https://security.tencent.com/index.php/blog/msg/155)
 ### 作图
 - [draw.io插件：画数据流图、威胁模型图](https://github.com/michenriksen/drawio-threatmodeling)
 - [draw.io插件：画数学函数图像](https://github.com/OrangeX4/drawio-function-plot-plugin)
