@@ -28,6 +28,7 @@
 - <a href = "https://www.zhihu.com/people/xing-xing-14-99-67/posts">Linux、系统、性能笔记 -- by 阿里混合云勿飞</a>
 - [朴素linux--C和Linux底层知识](https://github.com/1184893257/simplelinux)
 - [李博杰博士--小故事好看](https://ring0.me)
+- [初级工程师应读](https://dev.to/jeroendedauw/advice-for-junior-developers-30am)
 ## Online Source Code
 - <a href = "https://elixir.bootlin.com/linux/latest/source">linux, glibc ...</a>
 ## GCC
