@@ -114,6 +114,7 @@ https://github.com/sixty-north/cosmic-ray
 - [用CMOV使二分搜索branchless（Clang默认实现）](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 - [针对软件优化的硬件手册](https://www.agner.org/optimize/)
 - [使用prefetch、ffs、Cache优化二分搜索(Eytzinger二分)](https://algorithmica.org/en/eytzinger)
+- [在C中做单元测试](https://codeahoy.com/learn/cprogramming/ch46)
 ### tutorial
 - [WebGPU入门](https://eliemichel.github.io/LearnWebGPU/)
 ## ABI
