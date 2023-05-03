@@ -47,6 +47,7 @@
 - [手把手编译Linux源码](https://www.linuxfromscratch.org/)
 - [ELF图解](https://commons.wikimedia.org/wiki/File:ELF_Executable_and_Linkable_Format_diagram_by_Ange_Albertini.png)
 - [Linux文件系统层级标准（FHS)](https://refspecs.linuxfoundation.org/fhs.shtml)
+- [进程调度中migrations and switches区别（附如何查看进程调度情况）](https://stackoverflow.com/questions/45368742/linux-difference-between-migrations-and-switches)
 #### Ubuntu
 ##### AppImage
 - [将 AppImage 文件添加为应用及设置默认打开方式](https://www.jianshu.com/p/ed3c35b8dcda)
