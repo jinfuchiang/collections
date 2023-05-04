@@ -33,3 +33,5 @@ Recommend by [a Mathematics PhD](https://castel.dev/post/research-workflow/).
 - [找到占用资源（文件、设备）的进程](https://www.iobit.com/en/iobit-unlocker.php)
 ## 阅读
 - [在线EPUB\PDF\MOBI\AZW3阅读器](https://www.neat-reader.cn/)
+## 监控
+- [网络摄像头+天气预报](https://www.ventusky.com/)
