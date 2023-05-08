@@ -35,3 +35,5 @@ Recommend by [a Mathematics PhD](https://castel.dev/post/research-workflow/).
 - [在线EPUB\PDF\MOBI\AZW3阅读器](https://www.neat-reader.cn/)
 ## 监控
 - [网络摄像头+天气预报](https://www.ventusky.com/)
+## 数学
+- [数学可视化（可拖拽式展示向量操作）](https://www.geogebra.org/calculator)
