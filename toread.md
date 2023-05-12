@@ -120,6 +120,7 @@ https://github.com/sixty-north/cosmic-ray
 - [针对软件优化的硬件手册](https://www.agner.org/optimize/)
 - [使用prefetch、ffs、Cache优化二分搜索(Eytzinger二分)](https://algorithmica.org/en/eytzinger)
 - [在C中做单元测试](https://codeahoy.com/learn/cprogramming/ch46)
+- [如何构造体积小巧的程序](https://www.muppetlabs.com/~breadbox/software/tiny/)
 ### tutorial
 - [WebGPU入门](https://eliemichel.github.io/LearnWebGPU/)
 ## ABI
