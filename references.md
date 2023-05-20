@@ -1,0 +1,1 @@
+- [enable gpedit.msc on Windows](https://answers.microsoft.com/en-us/windows/forum/all/how-to-enable-the-gpeditmsc-on-windows-10-and-11/dbc76919-f2b5-4dec-a2b7-bcf545c34d00)
